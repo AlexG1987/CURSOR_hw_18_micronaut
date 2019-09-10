@@ -1,0 +1,3 @@
+micronaut:
+  application:
+    name: hw-18-micronaut
